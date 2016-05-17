@@ -1,11 +1,51 @@
-/* Inserta tu codigo aqui */
+body {
+  background-color: #2D2735; }
 
-/* Responsive */
+.contenedor-g {
+  width: 100%;
+  margin: 0;
+  padding: 0; }
 
-@media screen and (max-width : 920px) {
+.contenedor-m {
+  width: 960px;
+  margin: 40px 150px; }
 
-}
+.imglogo {
+  width: 160px;
+  height: 70px; }
 
-@media screen and (max-width: 600px) {
+.bg-black {
+  background-color: #1C1821; }
 
-}
+.bg-gray {
+  background-color: #2D2735; }
+
+.bg-lila {
+  background-img: url("../image/header-image.jpg"); }
+
+.bg-flor1 {
+  background-img: url("../image/image2.jpg"); }
+
+.bg-flor2 {
+  background-img: url("../image/image3.jpg"); }
+
+.bg-flor3 {
+  background-img: url("../image/image7.jpg"); }
+
+.relative {
+  position: relative; }
+
+.ansolute {
+  position: absolute; }
+
+.text-orange {
+  color: #ed8e0e; }
+
+.text-white {
+  color: #fff; }
+
+.list li {
+  list-style-type: none;
+  display: inline; }
+
+/*# sourceMappingURL=main.css.map */
